@@ -1,0 +1,12 @@
+D:\code\Flyer\Flyer.Extensions.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\code\Flyer\Flyer.Extensions.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+D:\code\Flyer\Flyer.Extensions.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+D:\code\Flyer\Flyer.Extensions.UnitTest\bin\Debug\netcoreapp2.0\Flyer.Extensions.UnitTest.deps.json
+D:\code\Flyer\Flyer.Extensions.UnitTest\bin\Debug\netcoreapp2.0\Flyer.Extensions.UnitTest.runtimeconfig.json
+D:\code\Flyer\Flyer.Extensions.UnitTest\bin\Debug\netcoreapp2.0\Flyer.Extensions.UnitTest.runtimeconfig.dev.json
+D:\code\Flyer\Flyer.Extensions.UnitTest\bin\Debug\netcoreapp2.0\Flyer.Extensions.UnitTest.dll
+D:\code\Flyer\Flyer.Extensions.UnitTest\bin\Debug\netcoreapp2.0\Flyer.Extensions.UnitTest.pdb
+D:\code\Flyer\Flyer.Extensions.UnitTest\obj\Debug\netcoreapp2.0\CoreCompileInputs.cache
+D:\code\Flyer\Flyer.Extensions.UnitTest\obj\Debug\netcoreapp2.0\Flyer.Extensions.UnitTest.AssemblyInfo.cs
+D:\code\Flyer\Flyer.Extensions.UnitTest\obj\Debug\netcoreapp2.0\Flyer.Extensions.UnitTest.dll
+D:\code\Flyer\Flyer.Extensions.UnitTest\obj\Debug\netcoreapp2.0\Flyer.Extensions.UnitTest.pdb

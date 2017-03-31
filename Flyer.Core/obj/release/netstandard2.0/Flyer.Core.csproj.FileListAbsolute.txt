@@ -1,0 +1,8 @@
+D:\code\Flyer\Flyer.Core\bin\release\netstandard2.0\Flyer.Core.deps.json
+D:\code\Flyer\Flyer.Core\bin\release\netstandard2.0\Flyer.Core.dll
+D:\code\Flyer\Flyer.Core\bin\release\netstandard2.0\Flyer.Core.pdb
+D:\code\Flyer\Flyer.Core\obj\release\netstandard2.0\CoreCompileInputs.cache
+D:\code\Flyer\Flyer.Core\obj\release\netstandard2.0\Flyer.Core.AssemblyInfo.cs
+D:\code\Flyer\Flyer.Core\obj\release\netstandard2.0\RemoveDepsFileConflicts.semaphore
+D:\code\Flyer\Flyer.Core\obj\release\netstandard2.0\Flyer.Core.dll
+D:\code\Flyer\Flyer.Core\obj\release\netstandard2.0\Flyer.Core.pdb

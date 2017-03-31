@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "478537fb6d022a459e3661cf7c1cf1209e9df8c9"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "flyer.core/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0-beta-25123-01"
+        },
+        "runtime": {
+          "Flyer.Core.dll": {}
+        }
+      },
+      "microsoft.netcore.platforms/1.1.0": {},
+      "microsoft.packaging.tools/1.0.0-beta-25123-01": {},
+      "netstandard.library/2.0.0-beta-25123-01": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.Packaging.Tools": "1.0.0-beta-25123-01"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "flyer.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "microsoft.netcore.platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "microsoft.packaging.tools/1.0.0-beta-25123-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BbUMc2BYcw3Yd+P4UahghKxWrBgQrK4Qoe+k+ZoeJiv2oxoxZPKu0PLryANQrymBWRV/Olotg7XNOUHImKrXxg==",
+      "path": "microsoft.packaging.tools/1.0.0-beta-25123-01",
+      "hashPath": "microsoft.packaging.tools.1.0.0-beta-25123-01.nupkg.sha512"
+    },
+    "netstandard.library/2.0.0-beta-25123-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PPZllNG/BhpZqnADVIG8k2TG+e/ZRKs0jsIyqUv0rOC4Jvx6WcQu+ekiQ1m7CIUB2sr/WuZtv3ajFpPPDhPwBw==",
+      "path": "netstandard.library/2.0.0-beta-25123-01",
+      "hashPath": "netstandard.library.2.0.0-beta-25123-01.nupkg.sha512"
+    }
+  }
+}

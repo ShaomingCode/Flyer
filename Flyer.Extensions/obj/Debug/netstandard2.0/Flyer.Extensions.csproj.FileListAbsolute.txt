@@ -1,0 +1,7 @@
+D:\code\Flyer\Flyer.Extensions\bin\Debug\netstandard2.0\Flyer.Extensions.deps.json
+D:\code\Flyer\Flyer.Extensions\bin\Debug\netstandard2.0\Flyer.Extensions.dll
+D:\code\Flyer\Flyer.Extensions\bin\Debug\netstandard2.0\Flyer.Extensions.pdb
+D:\code\Flyer\Flyer.Extensions\obj\Debug\netstandard2.0\Flyer.Extensions.AssemblyInfo.cs
+D:\code\Flyer\Flyer.Extensions\obj\Debug\netstandard2.0\Flyer.Extensions.dll
+D:\code\Flyer\Flyer.Extensions\obj\Debug\netstandard2.0\Flyer.Extensions.pdb
+D:\code\Flyer\Flyer.Extensions\obj\Debug\netstandard2.0\CoreCompileInputs.cache

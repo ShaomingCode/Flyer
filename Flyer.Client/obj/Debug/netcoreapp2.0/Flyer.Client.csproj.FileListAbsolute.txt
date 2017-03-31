@@ -1,0 +1,13 @@
+D:\code\Flyer\Flyer.Client\bin\Debug\netcoreapp2.0\Flyer.Client.deps.json
+D:\code\Flyer\Flyer.Client\bin\Debug\netcoreapp2.0\Flyer.Client.runtimeconfig.json
+D:\code\Flyer\Flyer.Client\bin\Debug\netcoreapp2.0\Flyer.Client.runtimeconfig.dev.json
+D:\code\Flyer\Flyer.Client\obj\Debug\netcoreapp2.0\Flyer.Client.csprojResolveAssemblyReference.cache
+D:\code\Flyer\Flyer.Client\obj\Debug\netcoreapp2.0\Flyer.Client.AssemblyInfo.cs
+D:\code\Flyer\Flyer.Client\obj\Debug\netcoreapp2.0\CoreCompileInputs.cache
+D:\code\Flyer\Flyer.Client\bin\Debug\netcoreapp2.0\Flyer.Client.dll
+D:\code\Flyer\Flyer.Client\bin\Debug\netcoreapp2.0\Flyer.Client.pdb
+D:\code\Flyer\Flyer.Client\bin\Debug\netcoreapp2.0\Flyer.Extensions.dll
+D:\code\Flyer\Flyer.Client\bin\Debug\netcoreapp2.0\Flyer.Extensions.pdb
+D:\code\Flyer\Flyer.Client\obj\Debug\netcoreapp2.0\Flyer.Client.dll
+D:\code\Flyer\Flyer.Client\obj\Debug\netcoreapp2.0\Flyer.Client.pdb
+D:\code\Flyer\Flyer.Client\obj\Debug\netcoreapp2.0\RemoveDepsFileConflicts.semaphore
